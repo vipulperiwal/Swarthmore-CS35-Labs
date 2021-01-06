@@ -1,0 +1,18 @@
+# TODO: show the list interpreted as a complete binary tree
+        5
+    4       2
+  3   2   8   5
+
+# TODO: show each bubble-up operation as the tree is heapified
+
+:Bubbling Step 1:
+
+        5
+    4       8
+  3   2   2   5
+
+:Bubbling Step 2:
+
+        8
+    4       5
+  3   2   2   5
